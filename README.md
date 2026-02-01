@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pikesh%20Patel&fontSize=40&fontAlignY=35"/>
 <div align="center">
+  
 # Hello World, I'm Pikesh Patel  
+
 ### Senior Frontend Engineer | React • TypeScript • Next.js | 5+ Years Experience  
 
 <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=Senior+Frontend+Engineer;React+%7C+TypeScript+%7C+Next.js;WCAG+Accessibility+Expert;Building+Enterprise+Dashboards;Open+to+Remote+Frontend+Roles" />
