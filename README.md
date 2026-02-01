@@ -1,11 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋🏻Hello%20World,%20I'm%20Pikesh%20Patel&fontSize=40&fontAlignY=35"/>
 <div align="center">
 
-### Senior Frontend Engineer | React • TypeScript • Next.js | 5+ Years Experience  
-
-<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=Senior+Frontend+Engineer;React+%7C+TypeScript+%7C+Next.js;WCAG+Accessibility+Expert;Building+Enterprise+Dashboards;Open+to+Remote+Frontend+Roles" />
-
----
 ## 🌍 Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/its-pikesh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -13,6 +8,11 @@
 <a href="https://github.com/pikesh1212"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+### Senior Frontend Engineer | React • TypeScript • Next.js | 5+ Years Experience  
+
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=Senior+Frontend+Engineer;React+%7C+TypeScript+%7C+Next.js;WCAG+Accessibility+Expert;Building+Enterprise+Dashboards;Open+to+Remote+Frontend+Roles" />
+
+---
 
 ## 🧑‍💻 About Me  
 💼 Senior Frontend Engineer with **5+ years experience** in building scalable enterprise-grade apps  
