@@ -14,12 +14,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=Senior+Frontend+Engineer;React+%7C+TypeScript+%7C+Next.js;WCAG+Accessibility+Expert;Building+Enterprise+Dashboards;Open+to+Remote+Frontend+Roles" />
 
 ---
+
 ## 🧑‍💻 About Me  
 💼 Senior Frontend Engineer with **5+ years experience** in building scalable enterprise-grade apps  
 ⚡ Expert in **React, Next.js, TypeScript**  
 ♿ Strong focus on **Performance & Accessibility (WCAG 2.1)**  
 ☁️ Experience with **Cloud integrations & Micro-frontends**  
 🎯 Goal: Build world-class UI & crack a global remote role  
+
 ---
 
 ## My Contribution Graph
