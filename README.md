@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋🏻Hello%20World%20I'm%20Pikesh%20Patel  &fontSize=40&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World%20Im%20Pikesh%20Patel&fontSize=40&fontAlignY=35"/>
 <div align="center">
 
 ### Senior Frontend Engineer | React • TypeScript • Next.js | 5+ Years Experience  
