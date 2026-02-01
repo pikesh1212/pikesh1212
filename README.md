@@ -74,7 +74,7 @@
 
 ## 🎵 Spotify Now Playing  
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31otu7ntp77og3trfk5c7am47q3u&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/>
 
 > ⚠️ Replace `YOUR_SPOTIFY_USERNAME` with your Spotify username  
 
