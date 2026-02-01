@@ -14,13 +14,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=Senior+Frontend+Engineer;React+%7C+TypeScript+%7C+Next.js;WCAG+Accessibility+Expert;Building+Enterprise+Dashboards;Open+to+Remote+Frontend+Roles" />
 
 
-## My Contribution Graph
-
-![GitHub Motion](https://gh-motion-card.vercel.app/api/github-motion?username=pikesh1212&&animation=spark&&year=2025)
-![Cute Motion](https://gh-motion-card.vercel.app/api/github-motion?username=pikesh1212&theme=unicorn&shape=heart&animation=rain&show_legend=true)
-![Hacker Motion](https://gh-motion-card.vercel.app/api/github-motion?username=pikesh1212&theme=nightowl&shape=square&animation=matrix&hide_rank=true)
-![Diamond Motion](https://gh-motion-card.vercel.app/api/github-motion?username=pikesh1212&theme=bulgarian-darkg&shape=diamond&animation=glow&border_width=0)
-![Minimal Motion](https://gh-motion-card.vercel.app/api/github-motion?username=pikesh1212&theme=tokyonight&animation=snake&hide_total=true&hide_streaks=true&hide_rank=true)
+![My Contribution Graph](https://gh-motion-card.vercel.app/api/github-motion?username=pikesh1212&animation=spark&year=2025&hide_total=true&hide_streaks=true&hide_rank=true)
 
 ---
 
