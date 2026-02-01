@@ -16,11 +16,7 @@
 
 ## My Contribution Graph
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/pikesh1212/pikesh1212/-/raw/main/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/pikesh1212/pikesh1212/-/raw/main/output/pacman-contribution-graph-light.svg">
-    <img alt="pacman contribution graph" src="https://gitlab.com/pikesh1212/pikesh1212/-/raw/main/output/pacman-contribution-graph-light.svg">
-</picture>
+![GitHub Motion](https://gh-motion-card.vercel.app/api/github-motion?username=pikesh1212)
 
 ---
 
