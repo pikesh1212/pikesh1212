@@ -42,16 +42,25 @@
 ## 💼 Experience Snapshot  
 
 ### 🟢 Senior Software Engineer — Aziro (Msys Technologies)  
-📍 Pune | Dec 2024 – Present  
-- Architecting **VM Management Dashboards** using React & Prism UI  
-- Implemented **WCAG 2.1 Accessibility** (100% screen reader & keyboard navigation)  
-- Standardized UI using enterprise design systems  
+🚀 *Building enterprise-grade dashboards used by real-world production systems*  
+
+- 🧠 Architecting **high-performance VM Management Dashboards** using React & Prism UI  
+- ♿ Delivered **WCAG 2.1 compliant UI** with 100% keyboard & screen-reader accessibility  
+- 🎨 Unified multiple modules with a standardized **enterprise design system**  
+- ⚡ Focused on performance, scalability & pixel-perfect UX  
+
+---
 
 ### 🔵 Specialist Programmer — Infosys  
-📍 Pune | Nov 2020 – Dec 2024  
-- Built **Airbus Cloud Portal** using React & Redux (⏱ load time reduced by 15%)  
-- Modernized Estée Lauder legacy UI into pixel-perfect responsive design  
-- Mentored junior devs & served as technical interviewer (REAP Panelist)  
+🌍 *Worked on global brands like Airbus & Estée Lauder*  
+
+- ✈️ Engineered **Airbus Cloud Portal** using React & Redux → improved load time by **15%**  
+- 💄 Modernized **Estée Lauder legacy UI** into a fully responsive, pixel-perfect application  
+- 🧪 Built robust UI with **unit testing (Jest)** & automation mindset  
+- 👨‍🏫 Mentored junior developers & served as **Technical Interviewer (REAP Panelist)**  
+- 🏆 Known for clean architecture, collaboration & on-time delivery  
+
+
 
 ---
 
