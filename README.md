@@ -16,7 +16,7 @@
 
 ## My Contribution Graph
 
-![GitHub Motion](https://gh-motion-card.vercel.app/api/github-motion?username=pikesh1212)
+![GitHub Motion](https://gh-motion-card.vercel.app/api/github-motion?username=pikesh1212&&animation=spark&&year=2025)
 
 ---
 
