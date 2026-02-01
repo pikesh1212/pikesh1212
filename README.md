@@ -1,46 +1,84 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pikesh%20Patel&fontSize=40&fontAlignY=35"/>
+
 <div align="center">
 
-# Hi 👋 I'm Pikesh Patel 🚀  
-### Frontend Developer | React.js | JavaScript
+# 🚀 Pikesh Patel  
+### Senior Frontend Engineer | React • TypeScript • Next.js | 5+ Years Experience  
 
-<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=React+Developer;JavaScript+Enthusiast;Building+Cool+UIs;Open+to+Remote+Opportunities" />
-
----
-
-### 🧑‍💻 About Me
-💻 I love building clean & interactive web apps  
-🚀 Currently working on React & Frontend System Design  
-🎯 Goal: Crack a Remote Frontend Role  
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=Senior+Frontend+Engineer;React+%7C+TypeScript+%7C+Next.js;WCAG+Accessibility+Expert;Building+Enterprise+Dashboards;Open+to+Remote+Frontend+Roles" />
 
 ---
 
-### ⚡ Tech Stack
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,git,github,jest" />
+## 🧑‍💻 About Me  
+💼 Senior Frontend Engineer with **5+ years experience** in building scalable enterprise-grade apps  
+⚡ Expert in **React, Next.js, TypeScript**  
+♿ Strong focus on **Performance & Accessibility (WCAG 2.1)**  
+☁️ Experience with **Cloud integrations & Micro-frontends**  
+🎯 Goal: Build world-class UI & crack a global remote role  
 
 ---
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" height="160"/>
+## ⚡ Tech Stack  
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,nodejs,aws,mongodb,git,jest,playwright" />
 
 ---
 
-### 🚀 Featured Projects
+## 🏆 Achievements & Certifications  
+🏅 Infosys Certified React Professional  
+🏅 Playwright JS/TS Certified  
+🏅 SAFe 6 Practitioner  
+🏆 2× Insta Award Winner – Sprint Delivery Excellence  
+🎖 REAP Certified Hiring Panelist  
+
+---
+
+## 💼 Experience Snapshot  
+
+### 🟢 Senior Software Engineer — Aziro (Msys Technologies)  
+📍 Pune | Dec 2024 – Present  
+- Architecting **VM Management Dashboards** using React & Prism UI  
+- Implemented **WCAG 2.1 Accessibility** (100% screen reader & keyboard navigation)  
+- Standardized UI using enterprise design systems  
+
+### 🔵 Specialist Programmer — Infosys  
+📍 Pune | Nov 2020 – Dec 2024  
+- Built **Airbus Cloud Portal** using React & Redux (⏱ load time reduced by 15%)  
+- Modernized Estée Lauder legacy UI into pixel-perfect responsive design  
+- Mentored junior devs & served as technical interviewer (REAP Panelist)  
+
+---
+
+## 🚀 Featured Projects  
 | Project | Description |
 |--------|-------------|
-| 🚀 Typing Speed App | React app to measure typing speed |
-| 🪪 Visiting Card Scanner | Extract card info into JSON |
-| 🤖 Personal Assistant Bot | AI chatbot on Telegram |
+| 🚀 foodiedelight | Food ordering web app (React) |
+| 🤖 fire-ai | AI based frontend experiments |
+| 🧪 playWrightAutomation | UI Automation using Playwright |
+| 📘 InterviewPrep | Frontend interview preparation app |
 
 ---
 
-### 🌍 Connect With Me
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://github.com/USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
+## 📊 GitHub Stats  
+
+<img src="https://github-readme-stats.vercel.app/api?username=pikesh1212&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pikesh1212&theme=tokyonight" height="170"/>
 
 ---
 
-### 👀 Profile Views
-<img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue&style=flat-square"/>
+## 🌍 Connect With Me  
+
+<a href="https://linkedin.com/in/its-pikesh"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/pikesh1212"><img src="https://skillicons.dev/icons?i=github" /></a>
+
+📧 Email: pikesh.patel492@gmail.com  
+📍 Pune, India  
+
+---
+
+## 👀 Profile Views  
+<img src="https://komarev.com/ghpvc/?username=pikesh1212&color=blue&style=flat-square"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
