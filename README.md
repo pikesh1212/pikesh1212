@@ -14,11 +14,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=Senior+Frontend+Engineer;React+%7C+TypeScript+%7C+Next.js;WCAG+Accessibility+Expert;Building+Enterprise+Dashboards;Open+to+Remote+Frontend+Roles" />
 
 
+## My Contribution Graph
+
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pikesh1212/pikesh1212/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pikesh1212/pikesh1212/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pikesh1212/pikesh1212/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/pikesh1212/pikesh1212/-/raw/main/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/pikesh1212/pikesh1212/-/raw/main/output/pacman-contribution-graph-light.svg">
+    <img alt="pacman contribution graph" src="https://gitlab.com/pikesh1212/pikesh1212/-/raw/main/output/pacman-contribution-graph-light.svg">
 </picture>
+
 ---
 
 ## 🧑‍💻 About Me  
