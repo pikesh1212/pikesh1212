@@ -49,7 +49,7 @@
 
 ### 🔵 **Senior Specialist — Randstad Enterprise**
 
-🌍 Contributing to global-scale HR platforms serving users across multiple regions
+🌍 *Contributing to global-scale HR platforms serving users across multiple regions*
 
 - ⚛️ Developing and maintaining JSP-driven React applications with reusable widget-based architecture
 - 🧩 Building scalable, configurable UI components used across multiple enterprise products
