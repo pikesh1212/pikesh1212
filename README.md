@@ -47,6 +47,16 @@
 
 ## 💼 Experience Snapshot  
 
+### 🔵 **Senior Specialist — Randstad Enterprise**
+
+🌍 Contributing to global-scale HR platforms serving users across multiple regions
+
+- ⚛️ Developing and maintaining JSP-driven React applications with reusable widget-based architecture
+- 🧩 Building scalable, configurable UI components used across multiple enterprise products
+- 🌐 Implementing internationalization (i18n) with dynamic translations and timezone-aware features
+- ⚡ Enhancing frontend performance, usability, and consistency across global
+
+
 ### 🟢 Senior Software Engineer — Aziro (Msys Technologies)  
 🚀 *Building enterprise-grade dashboards used by real-world production systems*  
 
