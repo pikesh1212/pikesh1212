@@ -54,7 +54,6 @@ My Contribution Graph
 - 🎨 Unified multiple modules with a standardized **enterprise design system**  
 - ⚡ Focused on performance, scalability & pixel-perfect UX
 
----
 
 ### 🔵 Specialist Programmer — Infosys
 
